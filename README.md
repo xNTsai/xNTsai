@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cheng-En Tsai and I'm a senior student majoring in Electrical Engineering at National Taiwan University</p>
+<p align="left">My name is Cheng-En Tsai and I'm a senior student majoring in Electrical Engineering at National Taiwan University (NTU)</p>
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-- 👨‍💻 See my portfolio at [MyPortfolio](http://xntsai.github.io)
+- 📖 I'm interested in Electronic Design Automation and Quantum Design Automation
+- 👨‍💻 I'm currently conducting research at Design Verfication Lab and Quantum Information Lab at NTU
+- 🖥️ See my portfolio at [MyPortfolio](http://xntsai.github.io)
 
 ###
 
