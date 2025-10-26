@@ -10,9 +10,9 @@
 
 ###
 
-- 📖 I'm interested in **Electronic Design Automation** and **Quantum Design Automation**
-- 👨‍💻 I'm currently conducting research at **Design Verfication Lab** and **Quantum Information Lab** at NTU
-- 🖥️ See my portfolio at [MyPortfolio](http://xntsai.github.io)
+- 📖  I'm interested in **Electronic Design Automation** and **Quantum Design Automation**
+- 👨‍💻  I'm currently conducting research at **Design Verfication Lab** and **Quantum Information Lab** at NTU
+- 🖥️  See my portfolio at [MyPortfolio](http://xntsai.github.io)
 
 ###
 
